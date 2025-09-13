@@ -1,0 +1,877 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    " " : {
+      "shouldTranslate" : false
+    },
+    " (%@)" : {
+      "shouldTranslate" : false
+    },
+    ".about" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เกี่ยวกับ"
+          }
+        }
+      }
+    },
+    ".about_desc" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Made with 🦶 in 🇹🇭"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Made with 🦶 in 🇹🇭"
+          }
+        }
+      }
+    },
+    ".accesibility" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accessibility"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การช่วยการเข้าถึง"
+          }
+        }
+      }
+    },
+    ".apps" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apps"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แอป"
+          }
+        }
+      }
+    },
+    ".assistivetouch" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AssistiveTouch"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AssistiveTouch"
+          }
+        }
+      }
+    },
+    ".capslock_key" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CapsLock"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CapsLock"
+          }
+        }
+      }
+    },
+    ".capslock_state_desc" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "state to type shifted characters instead."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แทนในการพิมพ์อักษรที่ต้องกดชิฟต์"
+          }
+        }
+      }
+    },
+    ".delete_desc" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "to remove the last character in the keyboard input box; if empty it will send a deleteBackward action to that input field."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เพื่อลบอักษรล่าสุด หากไม่มี จะลบอักษรปลายทางแทน"
+          }
+        }
+      }
+    },
+    ".delete_key" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DELETE"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        }
+      }
+    },
+    ".edit" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แก้ไข"
+          }
+        }
+      }
+    },
+    ".enable" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เปิดใช้งาน"
+          }
+        }
+      }
+    },
+    ".enable_both" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable both ‘Manoonchai’ and ‘Allow Full Access’."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เปิดใช้ทั้ง ‘Manoonchai’ และ ‘อนุญาตการเข้าถึงทั้งหมด’"
+          }
+        }
+      }
+    },
+    ".enable_keyboard" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable Keyboard"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เปิดใช้งานแป้นพิมพ์"
+          }
+        }
+      }
+    },
+    ".enable_keyboard_instruction" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable this keyboard by going to:"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เปิดใช้งานแป้นพิมพ์โดยการ"
+          }
+        }
+      }
+    },
+    ".how_to_ios" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable AssistiveTouch and turn on ‘Show On-Screen Keyboard’."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เปิดใช้งาน AssistiveTouch และเปิดใช้งานแสดงแป้นพิมพ์บนหน้าจอ"
+          }
+        }
+      }
+    },
+    ".how_to_ios_step" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steps to force the on-screen keyboard to appear:"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วิธีบังคับให้แสดงแป้นพิมพ์บนจอได้"
+          }
+        }
+      }
+    },
+    ".how_to_ios_step_1" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. Tap the input field you want to type in."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. เลือกช่อง input ที่ต้องการพิมพ์"
+          }
+        }
+      }
+    },
+    ".how_to_ios_step_2" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. If the keyboard doesn’t appear, go to the Home Screen."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. ถ้าแป้นพิมพ์ไม่แสดง ให้กลับไปหน้าจอโฮม"
+          }
+        }
+      }
+    },
+    ".how_to_ios_step_3" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. Return to the input field; the on-screen keyboard should appear."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. กลับมาที่ช่อง input แล้วแป้นพิมพ์บนจอควรแสดงขึ้นมา"
+          }
+        }
+      }
+    },
+    ".how_to_ios_step_4" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4. If it still doesn’t appear, try locking the screen and repeating the steps."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4. ถ้ายังไม่ได้ ลองล็อกหน้าจอแล้วทำใหม่"
+          }
+        }
+      }
+    },
+    ".how_to_ipados18" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iPadOS 18 : Use the button at the bottom-right corner to show the on-screen keyboard."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iPadOS 18: ใช้ปุ่มที่อยู่มุมล่างขวา แล้วเลือกแสดงแป้นพิมพ์บนหน้าจอ"
+          }
+        }
+      }
+    },
+    ".how_to_ipados26" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iPadOS 26+: If the button is missing, look at the"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iPadOS 26: ถ้าปุ่มดังกล่าวไม่มี ให้มองหา"
+          }
+        }
+      }
+    },
+    ".how_to_type" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When the on-screen keyboard appears, touch “Click here to start typing…”. This lets WebView detect the hardware keyboard so you can type."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เมื่อแป้นพิมพ์บนจอแสดงขึ้นมา ให้แตะช่องข้อความ “Click here to start typing…” เพื่อให้ WebView จับแป้นพิมพ์ฮาร์ดแวร์เพื่อพิมพ์ได้"
+          }
+        }
+      }
+    },
+    ".how_to_type_note" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DO NOT TYPE WHILE THE INPUT FIELD IN THE DESTINATION APP IS FOCUSED AND THE INPUT BOX IN WebView IS NOT FOCUSED, AS IT WILL HIDE THE ON-SCREEN KEYBOARD."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ห้ามพิมพ์ขณะที่ช่องป้อนข้อมูลในแอปปลายทางถูกโฟกัส และช่องป้อนข้อมูลใน WebView ยังไม่ถูกโฟกัส เพราะจะทำให้คีย์บอร์ดบนหน้าจอหายไป"
+          }
+        }
+      }
+    },
+    ".how_to_use" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How to use"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วิธีใช้"
+          }
+        }
+      }
+    },
+    ".how_to_use_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How to use keyboard"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วิธีใช้แป้นพิมพ์"
+          }
+        }
+      }
+    },
+    ".keyboards" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keyboards"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แป้นพิมพ์"
+          }
+        }
+      }
+    },
+    ".keys_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keys:"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ปุ่ม:"
+          }
+        }
+      }
+    },
+    ".menubar" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menubar"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เมนูบาร์"
+          }
+        }
+      }
+    },
+    ".note_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NOTE:"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หมายเหตุ:"
+          }
+        }
+      }
+    },
+    ".open_app_setting" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open App Setting"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เปิดตั้งค่าแอป"
+          }
+        }
+      }
+    },
+    ".open_website_discord" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Join Manoonchai Discord Server"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เข้าร่วมเซิร์ฟดิสแป้นมนูญชัย"
+          }
+        }
+      }
+    },
+    ".open_website_sourcecode" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Source code on GitHub"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Source code บน GitHub"
+          }
+        }
+      }
+    },
+    ".option_key" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OPTION"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Option"
+          }
+        }
+      }
+    },
+    ".press" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Press"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "กด"
+          }
+        }
+      }
+    },
+    ".privacy_policy_desc" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Everything you type stays on your device; we don’t collect or share it."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทุกข้อความที่คุณพิมพ์อยู่บนอุปกรณ์ของคุณ เราไม่เก็บหรือส่งต่อข้อมูลใด ๆ"
+          }
+        }
+      }
+    },
+    ".privacy_policy_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy Policy"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "นโยบายความเป็นส่วนตัว"
+          }
+        }
+      }
+    },
+    ".return_desc" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "to send text to that input field; if empty it will send a newline or a Return."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เพื่อส่งข้อความไปปลายทาง หากไม่มี จะส่ง Return หรือขึ้นบรรทัดใหม่"
+          }
+        }
+      }
+    },
+    ".return_key" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RETURN"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Return"
+          }
+        }
+      }
+    },
+    ".settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตั้งค่า"
+          }
+        }
+      }
+    },
+    ".shift_key" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SHIFT"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shift"
+          }
+        }
+      }
+    },
+    ".shift_option_desc" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "keys do not work. We don't know why."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไม่ทำงาน เราก็ไม่รู้เหมือนกันว่าทำไม"
+          }
+        }
+      }
+    },
+    ".show_keyboard" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Keyboard"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แสดงแป้นพิมพ์"
+          }
+        }
+      }
+    },
+    ".sometimes_shift_option" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sometimes,"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บางครั้ง"
+          }
+        }
+      }
+    },
+    ".space_desc" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "to also send text to that input field but with a space at the end."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เพื่อส่งข้อความไปปลายทางเหมือนกัน แต่จะมีช่องว่างต่อท้ายไปด้วย"
+          }
+        }
+      }
+    },
+    ".space_key" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SPACE"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spacebar"
+          }
+        }
+      }
+    },
+    ".support_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support:"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รองรับ:"
+          }
+        }
+      }
+    },
+    ".tab_desc" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "to switch between your last 2 used layouts (or ‘aก’ on screen)."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เพื่อสลับแป้นพิมพ์ที่เลือกใช้ล่าสุด 2 อัน (หรือกด ‘aก’ บนจอ)"
+          }
+        }
+      }
+    },
+    ".tab_key" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TAB"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TAB"
+          }
+        }
+      }
+    },
+    ".test_keyboard_here" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typing here…"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "พิมพ์ที่นี่"
+          }
+        }
+      }
+    },
+    ".test_keyboard_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Test keyboard:"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทดสอบแป้นพิมพ์:"
+          }
+        }
+      }
+    },
+    ".touch" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Touch"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สัมผัส"
+          }
+        }
+      }
+    },
+    ".use_capslock" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ให้ใช้สถานะ"
+          }
+        }
+      }
+    },
+    "iPad:" : {
+      "shouldTranslate" : false
+    },
+    "iPhone:" : {
+      "shouldTranslate" : false
+    },
+    "Key" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คีย์"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.1"
+}
