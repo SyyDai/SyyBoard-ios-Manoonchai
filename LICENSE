@@ -1,8 +1,12 @@
-MIT License
-
+Manoonchai Layout
 Copyright (c) 2024 Manassarn Manoonchai
-Copyright (c) 2025 SyyDai
+Licensed under the MIT License.
 
+Manoonchai SyyBoard
+Copyright (c) 2025 Saamkhaih Kyakya
+Licensed under the MIT License.
+
+MIT License
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -24,8 +28,10 @@ SOFTWARE.
 ---------------------------------------------------------------------------------
 
 This app uses SyyDai IME Minimal Core
-Copyright (C) 2024-2025  SyyDai, Saamkhaih Kyakya,
 which is licensed separately under the GNU LGPLv3-or-later.
+
+SyyDai IME Minimal Core
+Copyright (C) 2024-2025  SyyDai, Saamkhaih Kyakya
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Lesser General Public License as
